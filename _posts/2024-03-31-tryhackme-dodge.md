@@ -41,11 +41,9 @@ Service Info: Hosts: default, ip-10-10-64-72.eu-west-1.compute.internal; OS: Lin
 ```
 Open ports:
 | 22 | SSH |
-|-----|-----|
+|---|---|
 | 80 | HTTP |
-|-----|------|
 | 443 | HTTPS |
-|-----|-------|
 
 ### Searching for subdomains
 
