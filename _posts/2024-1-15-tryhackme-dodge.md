@@ -4,9 +4,9 @@ author: d4rylA
 categories: [TryHackMe]
 tags: [web, vhost, subdomain, ufw, firewall, ftp, sudo, apt]
 render_with_liquid: false
-img_path: /images/tryhackme_dodge/
+img_path: /images/thm_dodge/
 image:
-  path: room_image.webp
+  path: Dodge_thm.png
 ---
 
 Desc
