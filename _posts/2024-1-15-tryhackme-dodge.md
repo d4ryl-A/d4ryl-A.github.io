@@ -11,7 +11,6 @@ image:
 
 Desc
 
-![Tryhackme Room Link](room_card.webp){: width="600" height="150" .shadow }
 _<https://tryhackme.com/room/dodge>_
 
 ## Initial enumeration
