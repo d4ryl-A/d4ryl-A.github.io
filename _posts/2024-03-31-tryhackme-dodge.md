@@ -39,7 +39,7 @@ PORT    STATE SERVICE  VERSION
 |_http-server-header: Apache/2.4.41 (Ubuntu)
 Service Info: Hosts: default, ip-10-10-64-72.eu-west-1.compute.internal; OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
-```Open ports:
+```Open ports
 22 | SSH
 80 | HTTP
 443 | HTTPS
@@ -54,7 +54,6 @@ We then add these to `/etc/hosts`
 ```
 10.10.64.72 dodge.thm www.dodge.thm blog.dodge.thm dev.dodge.thm touch-me-not.dodge.thm netops-dev.dodge.thm ball.dodge.thm
 ```
-{: file="/etc/hosts" }
 
 ### Enumerating the Subdomains
 
