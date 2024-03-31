@@ -39,6 +39,7 @@ PORT    STATE SERVICE  VERSION
 |_http-server-header: Apache/2.4.41 (Ubuntu)
 Service Info: Hosts: default, ip-10-10-64-72.eu-west-1.compute.internal; OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
+
 ```Open ports
 22 | SSH
 80 | HTTP
