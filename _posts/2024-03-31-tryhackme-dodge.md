@@ -14,8 +14,8 @@ _<https://tryhackme.com/room/dodge>_
 ### Nmap Scan
 
 ```console
-$ nmap -T4 -n -sC -sV -Pn -p- 10.10.64.72
-Nmap scan report for 10.10.64.72
+$ nmap -sC -sV -Pn -p- --open -T4 10.10.244.21
+Nmap scan report for 10.10.244.21
 Host is up (0.085s latency).
 Not shown: 65532 filtered tcp ports (no-response)
 PORT    STATE SERVICE  VERSION
@@ -39,12 +39,11 @@ PORT    STATE SERVICE  VERSION
 |_http-server-header: Apache/2.4.41 (Ubuntu)
 Service Info: Hosts: default, ip-10-10-64-72.eu-west-1.compute.internal; OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
-Open ports:
-| 22 | SSH |
-|---|---|
-| 80 | HTTP |
-| 443 | HTTPS |
-
+```Open ports:
+22 | SSH
+80 | HTTP
+443 | HTTPS
+```
 ### Searching for subdomains
 
 By visiting the website, we can see that `https` worked and checking the certificate, we can see a lists of subdomains.
