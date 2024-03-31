@@ -4,13 +4,9 @@ author: d4rylA
 categories: [TryHackMe]
 tags: [web, vhost, subdomain, ufw, firewall, ftp, sudo, apt]
 render_with_liquid: false
-img_path: /images/thm_dodge/
-image:
-  path: thm_dodge.png
----
 
-Desc
 
+![Tryhackme Room Link](thm_dodge.png){: width="600" height="150" .shadow }
 _<https://tryhackme.com/room/dodge>_
 
 ## Initial enumeration
