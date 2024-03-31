@@ -13,7 +13,7 @@ _<https://tryhackme.com/room/dodge>_
 
 ### Nmap Scan
 
-```console
+```
 $ nmap -sC -sV -Pn -p- --open -T4 10.10.244.21
 Nmap scan report for 10.10.244.21
 Host is up (0.085s latency).
