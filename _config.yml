@@ -23,10 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://d4rylA.github.io"
+url: "https://d4ryl-a.github.io"
 
 github:
-  username: d4rylA # change to your github username
+  username: d4ryl-A # change to your github username
 
 #linkedin:
 #  username: daryl-antonio-84555418b
@@ -84,7 +84,7 @@ theme_mode:  dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "http://daryl.github.io"
+img_cdn: "http://d4ryl-a.github.io"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/L41.jpg"
