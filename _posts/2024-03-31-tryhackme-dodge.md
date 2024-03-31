@@ -63,7 +63,7 @@ feroxbuster -u https://netops-dev.dodge.thm/ -w /usr/share/wordlists/dirb/big.tx
 
 ![image](https://github.com/d4ryl-A/d4ryl-A.github.io/assets/129752764/0113e062-d121-4f56-9033-86e1faef42ce)
 
-When checking and inspecting the 'firewall.js` page, there is an interesting path named `firewall10110.php`.
+When checking and inspecting the `firewall.js` page, there is an interesting path named `firewall10110.php`.
 
 ![image](https://github.com/d4ryl-A/d4ryl-A.github.io/assets/129752764/cd77b749-19a0-4726-9688-cfdb09fd1100)
 
