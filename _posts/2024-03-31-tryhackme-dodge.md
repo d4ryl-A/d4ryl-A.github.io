@@ -37,7 +37,6 @@ PORT    STATE SERVICE  VERSION
 | Not valid before: 2023-06-29T11:46:51
 |_Not valid after:  2123-06-05T11:46:51
 |_http-server-header: Apache/2.4.41 (Ubuntu)
-Service Info: Hosts: default, ip-10-10-64-72.eu-west-1.compute.internal; OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
 ### Searching for subdomains
