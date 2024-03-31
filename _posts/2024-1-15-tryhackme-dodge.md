@@ -1,6 +1,5 @@
 ---
-title: 'TryHackMe: Dodge'
-author: d4rylA
+title: 'TryHackMe - Dodge'
 categories: [TryHackMe]
 tags: [web, vhost, subdomain, ufw, firewall, ftp, sudo, apt]
 render_with_liquid: false
