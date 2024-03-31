@@ -52,6 +52,7 @@ By visiting the website, we can see that `https` worked and checking the certifi
 ![image](https://github.com/d4ryl-A/d4ryl-A.github.io/assets/129752764/8acc8578-98e9-4549-98a0-75256dfff54d)
 
 We then add these to `/etc/hosts`
+
 ```
 10.10.64.72 dodge.thm www.dodge.thm blog.dodge.thm dev.dodge.thm touch-me-not.dodge.thm netops-dev.dodge.thm ball.dodge.thm
 ```
