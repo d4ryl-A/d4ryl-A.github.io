@@ -6,7 +6,7 @@ tags: [web, vhost, subdomain, ufw, firewall, ftp, sudo, apt]
 render_with_liquid: false
 img_path: /images/thm_dodge/
 image:
-  path: Dodge_thm.png
+  path: thm_dodge.png
 ---
 
 Desc
