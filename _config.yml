@@ -16,10 +16,10 @@ timezone: America/Winnipeg
 
 title: Daryl Antonio # the main title
 
-tagline: PNPT | Security+ | (ISC)² CC  Aspiring Penetration Tester  CyberSecurity Practitioner # it will display as the sub-title
+tagline: PNPT | PJOR | Security+   CyberSecurity Practitioner # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Personal blog for CTF writeup, personal project and other related guides.
+  Personal blog for CTF writeup, personal project and other related stuff.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
